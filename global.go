@@ -1,7 +1,7 @@
 package main
 
 const(
-	ServerIp = "101.132.115.156"
+	ServerIp = "your ip"
 	ServerPort = 25118
 	AuthPassword = "helloworld"
 )
